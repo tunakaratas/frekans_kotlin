@@ -1,0 +1,57 @@
+package com.foursoftware.frekans.ui.theme
+import androidx.compose.ui.graphics.Color
+
+val PrimaryGreen = Color(0xFF2E7D32)
+val PrimaryGreenLight = Color(0xFF4CAF50)
+val PrimaryGreenDark = Color(0xFF1B5E20)
+val SecondaryGreen = Color(0xFF66BB6A)
+val TertiaryGreen = Color(0xFF81C784)
+val AccentGreen = Color(0xFFA5D6A7)
+val SurfaceGreen = Color(0xFFE8F5E9)
+val BackgroundGreen = Color(0xFFF1F8F4)
+
+val ForestGreen80 = Color(0xFFA5D6A7)
+val SageGreen80 = Color(0xFFC5E1C5)
+val MintGreen80 = Color(0xFFD4EDDA)
+val LightGreen80 = Color(0xFFF0F9F4)
+val EmeraldGreen = Color(0xFF4CAF50)
+val SpringGreen = Color(0xFF66BB6A)
+val ForestGreen40 = Color(0xFF2E7D32)
+val SageGreen40 = Color(0xFF388E3C)
+val MintGreen40 = Color(0xFF4CAF50)
+val DarkGreen40 = Color(0xFF1B5E20)
+val DeepGreen = Color(0xFF1B5E20)
+val RichGreen = Color(0xFF2E7D32)
+
+val EarthBrown = Color(0xFF8D6E63)
+val LeafYellow = Color(0xFFFFC107)
+val SkyBlue = Color(0xFF42A5F5)
+val NatureGold = Color(0xFFFFB300)
+
+val SoftBeige = Color(0xFFFAFAFA)
+val PeachBlush = Color(0xFFFFF3E0)
+val LavenderMist = Color(0xFFF3E5F5)
+val RoseQuartz = Color(0xFFFCE4EC)
+
+val GlassWhite = Color(0xE6FFFFFF)
+val GlassGreen = Color(0xCC4CAF50)
+val GlassDark = Color(0xCC000000)
+val GlassLight = Color(0x80FFFFFF)
+
+val GradientStart = Color(0xFF2E7D32)
+val GradientMiddle = Color(0xFF4CAF50)
+val GradientEnd = Color(0xFF66BB6A)
+val GradientLightStart = Color(0xFFF1F8F4)
+val GradientLightEnd = Color(0xFFFFFFFF)
+val GradientSoft = Color(0xFFF5FBF7)
+
+val DarkSurface = Color(0xFF121212)
+val DarkSurfaceVariant = Color(0xFF1E1E1E)
+val DarkOnSurface = Color(0xFFE0E0E0)
+val DarkPrimary = Color(0xFF81C784)
+val DarkSecondary = Color(0xFF66BB6A)
+
+val ShadowColor = Color(0x1A000000)
+val ShadowColorLight = Color(0x0D000000)
+val DividerColor = Color(0x1F000000)
+val DividerColorLight = Color(0x0F000000)

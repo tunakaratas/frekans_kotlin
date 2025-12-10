@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Bitki Frekans Terapisi</string>
+    <string name="audio_playback_attribution">Bu uygulama bitki frekans terapisi için ses çalıyor</string>
+</resources>
